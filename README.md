@@ -119,7 +119,7 @@ Selecionamos o GET
 ### Definindo o caminho que vai ser convertido no XML para CSV
 ![Fluxo](imagens/Screenshot_33.png)
 
-### Como indentificar o Path no XML
+### Como identificar o Path no XML
 ![Fluxo](imagens/Screenshot_46.png)
 
 ### Removendo o Sender
