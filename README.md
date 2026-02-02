@@ -84,8 +84,7 @@ https://services.odata.org/V2/
 https://services.odata.org/V2
 ![Fluxo](imagens/Screenshot_22.png)
 
-### OData V2 com usuário criado
-https://sftpcloud.io/tools/free-ftp-server
+### |Usuário criado do OData V2
 ![Fluxo](imagens/Screenshot_23.png)
 
 ### Dados do FTP Gratuito para nosso testes
