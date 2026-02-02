@@ -169,6 +169,15 @@ SAP CPI
 
 ![Fluxo](imagens/Screenshot_42.png)
 
+### E-mail Recebido com o Anexo
+![Fluxo](imagens/Screenshot_43.png)
+
+### Verificando o corpo do E-mail e o Anexos
+![Fluxo](imagens/Screenshot_44.png)
+
+### Verificando Anexos do E-mail
+![Fluxo](imagens/Screenshot_45.png)
+
 
 ## 📦 Exemplo prático – iFlow para baixar
 
