@@ -181,7 +181,7 @@ SAP CPI
 
 ## 📦 Exemplo prático – iFlow para baixar
 
-📦 [Download do iFlow – Package/ODataIntegrationwithFTP.zip](Package/OData%20Integration%20with%20FTP.zip)
+📦 [Download do iFlow – Package/OdataIntegrationSendEmailAttachment.zip](Package/OdataIntegrationSendEmailAttachment.zip)
 
 
 
