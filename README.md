@@ -23,14 +23,13 @@ https://myaccount.google.com/apppasswords
 ![Fluxo](imagens/Screenshot_3.png)
 
 ### Criando nosso Manage Security
-Em Monitor -> Integrations and APIs
-Vamos em Security Material
+Em Monitor -> Integrations and APIs -> Vamos em Security Material
 ![Fluxo](imagens/Screenshot_4.png)
 
-### Removendo o Sender
+### Criar nossas credenciais
 ![Fluxo](imagens/Screenshot_5.png)
 
-### Removendo o Start
+### Criando nosso usuários
 ![Fluxo](imagens/Screenshot_6.png)
 
 ### Este é o gatilho que inicia todo o processo.
