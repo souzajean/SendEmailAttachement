@@ -93,16 +93,17 @@ https://services.odata.org/V2
 ### Configurando o OData V2 - Processing
 ![Fluxo](imagens/Screenshot_25.png)
 
-### Alterando o nome do Receiver para FTP
+### Conectando Sistema do OData V2
 ![Fluxo](imagens/Screenshot_26.png)
 
-### Conectando do **END** no  **Receiver FTP**
+### Configurando o e Definindo Operações do OData V2
+Selecionamos o GET
 ![Fluxo](imagens/Screenshot_27.png)
 
-### Selecionando o FTP 
+### Selecionando o Products 
 ![Fluxo](imagens/Screenshot_28.png)
 
-### Configurando o FTP no Target
+### Marcando para gerar o XML Schema e todos Fields
 ![Fluxo](imagens/Screenshot_29.png)
 
 ### Salvar nosso iFlow e Ir em Monitor -> Integrations and APIs
