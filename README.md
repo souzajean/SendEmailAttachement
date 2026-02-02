@@ -54,20 +54,21 @@ Podemos testar nossas configurações em Em Monitor -> Integrations and APIs -> 
 ### Editando nosso Iflow
 ![Fluxo](imagens/Screenshot_13.png)
 
-### Selecionando o ODataV2
+### Removendo o Start
+Não vamos precisar do Start nesse momento, vamos adicionar o Timer mais para frente.
 ![Fluxo](imagens/Screenshot_14.png)
 
-### ODataV2 utilizado
+### Adicionadno um Timer
 https://services.odata.org/V2/
 ![Fluxo](imagens/Screenshot_15.png)
 
-### ODataV2 cria um usuário para Leitura e Escrita
+### Conectar o Timer no End
 ![Fluxo](imagens/Screenshot_16.png)
 
-### Configurando o ODataV2 em Conexão
+### Renomeando o Receiver para OData
 ![Fluxo](imagens/Screenshot_17.png)
 
-### Configurando o ODataV2 em Processamento
+### Adicionando o Request Replay
 ![Fluxo](imagens/Screenshot_18.png)
 
 ### Modelando o ODataV2 em Processamento
