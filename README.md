@@ -132,19 +132,16 @@ Não vamos utilizar ele nesse exemplo
 ## Renomeando o Receiver para EMAIL_GMAIL
 ![Fluxo](imagens/Screenshot_36.png)
 
-### Altearando o nome XML to CSP Converter
+### Conectando o End para EMAIL_GMAIL
 ![Fluxo](imagens/Screenshot_37.png)
 
-### Salvar e Públicar nosso iFlow
-Esta etapa é responsável por carregar os dados processados no destino.
-Ela leva o arquivo DetalhesProdutos.csv gerado e o envia (upload) para o servidor FTP remoto, na pasta especificada por você.
+### Selecionando Mail
 ![Fluxo](imagens/Screenshot_38.png)
 
-### Acessando o Client de FTP com nossas credencial do FTP.
-No nosso exemplo estamos usando o WinSCP
+### Configurando o E-Mail em Connection
 ![Fluxo](imagens/Screenshot_39.png)
 
-### Verificando se o arquivo foi adicionado ao FTP
+### Configurando o E-Mail em Processing
 ![Fluxo](imagens/Screenshot_40.png)
 
 ### Abrindo nosso arquivo gerado
