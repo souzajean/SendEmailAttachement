@@ -12,17 +12,19 @@ Esse cenário é muito comum em integrações onde é necessário distribuir dad
 
 📊 Exemplo Prático do Fluxo
 
-### Acessando o E-mail no Link
+### Acessando o E-mail no GMAIL
 https://myaccount.google.com/apppasswords
 ![Fluxo](imagens/Screenshot_1.png)
 
-### Criando o pacote ODATA Integration with FTP
+### APP menos Seguro no GMAIL
 ![Fluxo](imagens/Screenshot_2.png)
 
-### Criando o Aterfato do Integration iFlow
+### Armazenando a senha do APP
 ![Fluxo](imagens/Screenshot_3.png)
 
-### Editando o Integration iFlow
+### Criando nosso Manage Security
+Em Monitor -> Integrations and APIs
+Vamos em Security Material
 ![Fluxo](imagens/Screenshot_4.png)
 
 ### Removendo o Sender
