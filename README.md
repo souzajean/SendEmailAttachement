@@ -113,11 +113,14 @@ Selecionamos o GET
 ### Transformar o XML para CSV
 ![Fluxo](imagens/Screenshot_31.png)
 
-### Criando nosso Security Material em User Credentials
+### Renomeando o XML to CSV Converter
 ![Fluxo](imagens/Screenshot_32.png)
 
-### Adicionando nossas credencial do FTP
+### Definindo o caminho que vai ser convertido no XML para CSV
 ![Fluxo](imagens/Screenshot_33.png)
+
+### Como indentificar o Path no XML
+![Fluxo](imagens/Screenshot_46.png)
 
 ### Verificando nossas credencial do FTP
 ![Fluxo](imagens/Screenshot_34.png)
