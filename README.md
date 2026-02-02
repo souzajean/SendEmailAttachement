@@ -147,7 +147,7 @@ Não vamos utilizar ele nesse exemplo
 ### Configurando nosso Anexos
 **Subject:** Dados do Produtos em Anexo
 **Mail Body:**
-'''
+```
 Prezados(as), Tudo bem!
 
 Segue anexo dados do Produtos
@@ -156,7 +156,7 @@ ${in.body}
 
 Atenciosamente,
 SAP CPI
-'''
+```
 ![Fluxo](imagens/Screenshot_41.png)
 
 ### Configurando nosso Anexos
