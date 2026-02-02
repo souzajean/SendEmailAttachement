@@ -161,6 +161,12 @@ SAP CPI
 ![Fluxo](imagens/Screenshot_41.png)
 
 ### Configurando nosso Anexos
+**Name:** Produtos_${date:now:yyyy-MM-dd}T00:00:00.000.csv
+
+**Mime-Type:** Text/CSV
+
+**Source:** Body
+
 ![Fluxo](imagens/Screenshot_42.png)
 
 
