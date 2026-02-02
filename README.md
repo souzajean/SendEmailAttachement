@@ -71,19 +71,20 @@ https://services.odata.org/V2/
 ### Adicionando o Request Replay
 ![Fluxo](imagens/Screenshot_18.png)
 
-### Modelando o ODataV2 em Processamento
+### Conectando o Request Replay no Receiver OData
 ![Fluxo](imagens/Screenshot_19.png)
 
-### Modelando o ODataV2 em Processamento em Operação GET
+### Selecionando o OData
 ![Fluxo](imagens/Screenshot_20.png)
 
-### Modelando o ODataV2 em Processamento em Select Entity **Products**
+### Selecionando o OData V2 
 ![Fluxo](imagens/Screenshot_21.png)
 
-### Marcando para gerar o XML e selecionando todos os campos de Products
+### Acessando a página do OData para (Ler-Escrever)
+https://services.odata.org/V2
 ![Fluxo](imagens/Screenshot_22.png)
 
-### Site do FTP Gratuito para nosso testes
+### OData V2 com usuário criado
 https://sftpcloud.io/tools/free-ftp-server
 ![Fluxo](imagens/Screenshot_23.png)
 
