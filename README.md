@@ -42,17 +42,16 @@ Podemos testar nossas configurações em Em Monitor -> Integrations and APIs -> 
 ### Criando nosso Pacote
 ![Fluxo](imagens/Screenshot_9.png)
 
-### Criando no Iflow
-Esta etapa se conecta à sua fonte OData.Ela envia uma requisição HTTP GET ao serviço OData (provavelmente para um endpoint como /Products). O serviço responde com os dados dos produtos no formato XML. Esta etapa é responsável por extrair os dados da fonte.
+### Adicionando o nome para nosso Pacote
 ![Fluxo](imagens/Screenshot_10.png)
 
-### Selecionando o Request Replay
+### Criando nosso Artefato do iFlow
 ![Fluxo](imagens/Screenshot_11.png)
 
-### Conectando o Request Replay
+### Adicionando o Integration Flow
 ![Fluxo](imagens/Screenshot_12.png)
 
-### Selecionando o OData
+### Editando nosso Iflow
 ![Fluxo](imagens/Screenshot_13.png)
 
 ### Selecionando o ODataV2
