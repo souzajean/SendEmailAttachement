@@ -1,21 +1,19 @@
-# Buscando Produtos convertendo em CSV e Enviando no Email Anexo
+# Buscando Produtos Odata é convertendo em CSV e Enviando no Email Anexo
 SAP BTP CPI - Send Email Attachement
 
+## Buscando OData e enviando com Anexo no E-Mail
 
-# 🔀 Integrando OData em CSV from E-Mail
-SAP BTP CPI - OData from FTP
+Este iFlow foi desenvolvido no SAP BTP – Integration Suite (Cloud Integration) com o objetivo de extrair dados de produtos a partir de um serviço OData, converter essas informações para o formato CSV e enviar o arquivo como anexo por e-mail de forma automática.
 
-## Integrando OData Convertendo de XML em CSV from FTP
-
-Este repositório demonstra como um cenario do dia a dia onde temos que realizar a integração que você tem é um fluxo que extrai dados de produtos de uma fonte OData, transforma esses dados e os envia para um servidor FTP de forma automatizada.
-Neste diagrama mostra uma integração clássica de dados do tipo "Extrair, Transformar, Carregar" (ETL).
+Esse cenário é muito comum em integrações onde é necessário distribuir dados para áreas de negócio, auditoria, relatórios ou integrações legadas que consomem arquivos CSV.
 
 ![Capa](imagens/capa-linkedin.png)
 
 
 📊 Exemplo Prático do Fluxo
 
-### Criando o pacote
+### Acessando o E-mail no Link
+https://myaccount.google.com/apppasswords
 ![Fluxo](imagens/Screenshot_1.png)
 
 ### Criando o pacote ODATA Integration with FTP
