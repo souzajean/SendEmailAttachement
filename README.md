@@ -84,14 +84,13 @@ https://services.odata.org/V2/
 https://services.odata.org/V2
 ![Fluxo](imagens/Screenshot_22.png)
 
-### |Usuário criado do OData V2
+### Usuário criado do OData V2
 ![Fluxo](imagens/Screenshot_23.png)
 
-### Dados do FTP Gratuito para nosso testes
-https://sftpcloud.io/tools/free-ftp-server
+### Configurando o OData V2 - Conection
 ![Fluxo](imagens/Screenshot_24.png)
 
-### Criando mais um Receiver
+### Configurando o OData V2 - Processing
 ![Fluxo](imagens/Screenshot_25.png)
 
 ### Alterando o nome do Receiver para FTP
