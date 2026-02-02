@@ -58,7 +58,7 @@ Podemos testar nossas configurações em Em Monitor -> Integrations and APIs -> 
 Não vamos precisar do Start nesse momento, vamos adicionar o Timer mais para frente.
 ![Fluxo](imagens/Screenshot_14.png)
 
-### Adicionadno um Timer
+### Adicionando um Timer
 https://services.odata.org/V2/
 ![Fluxo](imagens/Screenshot_15.png)
 
