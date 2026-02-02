@@ -32,17 +32,17 @@ Em Monitor -> Integrations and APIs -> Vamos em Security Material
 ### Criando nosso usuários
 ![Fluxo](imagens/Screenshot_6.png)
 
-### Este é o gatilho que inicia todo o processo.
-Como funciona: Pode ser configurado para executar automaticamente em horários específicos (por exemplo, diariamente às 02:00) ou em intervalos regulares (a cada 2 horas). É ele que "acorda" o fluxo.
+### Testando nossas credenciais no GMAIL
+Podemos testar nossas configurações em Em Monitor -> Integrations and APIs -> Vamos em Security Material -> Connectivity Tests
 ![Fluxo](imagens/Screenshot_7.png)
 
-### Conectando com o End
+### Testando o Gmail
 ![Fluxo](imagens/Screenshot_8.png)
 
-### Renomeando nosso Receiver para o ODATA 
+### Criando nosso Pacote
 ![Fluxo](imagens/Screenshot_9.png)
 
-### Usando o Request Reply 1 
+### Criando no Iflow
 Esta etapa se conecta à sua fonte OData.Ela envia uma requisição HTTP GET ao serviço OData (provavelmente para um endpoint como /Products). O serviço responde com os dados dos produtos no formato XML. Esta etapa é responsável por extrair os dados da fonte.
 ![Fluxo](imagens/Screenshot_10.png)
 
