@@ -106,7 +106,7 @@ Selecionamos o GET
 ### Marcando para gerar o XML Schema e todos Fields
 ![Fluxo](imagens/Screenshot_29.png)
 
-### Salvar nosso iFlow e Ir em Monitor -> Integrations and APIs
+### No Conector vamos adicinar o XML para CSV
 ![Fluxo](imagens/Screenshot_30.png)
 
 ### Criando nosso Security Material
