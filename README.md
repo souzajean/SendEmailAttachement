@@ -144,8 +144,23 @@ Não vamos utilizar ele nesse exemplo
 ### Configurando o E-Mail em Processing
 ![Fluxo](imagens/Screenshot_40.png)
 
-### Abrindo nosso arquivo gerado
+### Configurando nosso Anexos
+Subject: Dados do Produtos em Anexo
+Mail Body:
+´´´
+Prezados(as), Tudo bem!
+
+Segue anexo dados do Produtos
+
+${in.body}
+
+Atenciosamente,
+SAP CPI
+´´´
 ![Fluxo](imagens/Screenshot_41.png)
+
+### Configurando nosso Anexos
+![Fluxo](imagens/Screenshot_42.png)
 
 
 ## 📦 Exemplo prático – iFlow para baixar
