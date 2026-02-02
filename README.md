@@ -82,6 +82,7 @@ https://services.odata.org/V2/
 
 ### Acessando a página do OData para (Ler-Escrever)
 https://services.odata.org/V2
+
 ![Fluxo](imagens/Screenshot_22.png)
 
 ### Usuário criado do OData V2
@@ -109,7 +110,7 @@ Selecionamos o GET
 ### No Conector vamos adicinar o XML para CSV
 ![Fluxo](imagens/Screenshot_30.png)
 
-### Criando nosso Security Material
+### Transformar o XML para CSV
 ![Fluxo](imagens/Screenshot_31.png)
 
 ### Criando nosso Security Material em User Credentials
